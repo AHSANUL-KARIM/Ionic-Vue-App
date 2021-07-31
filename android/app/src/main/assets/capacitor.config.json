@@ -1,0 +1,6 @@
+{
+	"appId": "com.ahsan",
+	"appName": "Vue-Memories",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
